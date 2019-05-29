@@ -7,6 +7,8 @@
 Panday is a day planner catered towards teaching and helping people with mental disabilities become more independant 
 throughout their daily lives.
 
+<p align="center"><a href="https://www.youtube.com/watch?v=IOH9SRqcqO4">Watch Demo Video</a></p>
+
 ## Features 
 
   -Custom calendar created from scratch using JavaScript, React and Redux.
